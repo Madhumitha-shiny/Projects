@@ -1,4 +1,4 @@
-# Accept an integer value and verify whether the given number is sivisible by 9 
+# Accept an integer value and verify whether the given number is divisible by 9 
 
 num = int(input("Enter the number : ")) # Accepting the input
 
